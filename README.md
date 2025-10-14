@@ -6,7 +6,7 @@
 
 ###
 <h2 align="left">Current Programming Skills</h2>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
